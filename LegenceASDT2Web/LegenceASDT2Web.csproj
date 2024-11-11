@@ -569,6 +569,7 @@
     <Content Include="TaskPane\CSS\assignsignature.css" />
     <Content Include="TaskPane\CSS\editsignature.css" />
     <Content Include="TaskPane\HTML\assignsignature.html" />
+    <Content Include="TaskPane\HTML\autorunweb.html" />
     <Content Include="TaskPane\HTML\editsignature.html" />
     <Content Include="TaskPane\HTML\LegenceSig.html" />
     <Content Include="TaskPane\SCRIPT\signature_loader.js" />
