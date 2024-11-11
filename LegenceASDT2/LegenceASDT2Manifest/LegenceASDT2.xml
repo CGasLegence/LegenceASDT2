@@ -19,7 +19,7 @@
 	<DisplayName DefaultValue="LegenceASDT2" />
 	<Description DefaultValue="Automatic Signature Deployment for Outlook,OWA,NEW Outlook"/>
 
-	<IconUrl DefaultValue="~remoteAppUrl/Images/icon64.png"/>
+	<IconUrl DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Images/Icon64.png"/>
 	<HighResolutionIconUrl DefaultValue="~remoteAppUrl/Images/icon128.png"/>
 
 	<SupportUrl DefaultValue="https://helpdesk.wearelegence.com" />
@@ -128,14 +128,14 @@
 
 			<Resources>
 				<bt:Images>
-					<bt:Image id="Icon16" DefaultValue="~remoteAppUrl/Images/icon16.png"/>
-					<bt:Image id="Icon32" DefaultValue="~remoteAppUrl/Images/icon32.png"/>
-					<bt:Image id="Icon80" DefaultValue="~remoteAppUrl/Images/icon80.png"/>
+					<bt:Image id="Icon16" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Images/Icon16.png"/>
+					<bt:Image id="Icon32" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Images/Icon32.png"/>
+					<bt:Image id="Icon80" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Images/Icon80.png"/>
 				</bt:Images>
 				<bt:Urls>
-					<bt:Url id="residUrl0" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/outlook-set-signature/src/taskpane/HTML/editsignature.html"></bt:Url>
-					<bt:Url id="Autorun" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/outlook-set-signature/src/runtime/HTML/autorunweb.html"></bt:Url>
-					<bt:Url id="runtimeJs" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/outlook-set-signature/src/runtime/Js/autorunshared.js"></bt:Url>
+					<bt:Url id="residUrl0" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/TaskPane/HTML/editsignature.html"></bt:Url>
+					<bt:Url id="Autorun" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/TaskPane/HTML/autorunweb.html"></bt:Url>
+					<bt:Url id="runtimeJs" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Scripts/autorunshared.js"></bt:Url>
 				</bt:Urls>
 				<bt:ShortStrings>
 					<bt:String id="groupLabel" DefaultValue="Legence"/>
