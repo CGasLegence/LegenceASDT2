@@ -20,7 +20,7 @@
 	<Description DefaultValue="Automatic Signature Deployment for Outlook,OWA,NEW Outlook"/>
 
 	<IconUrl DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Images/Icon64.png"/>
-	<HighResolutionIconUrl DefaultValue="~remoteAppUrl/Images/icon128.png"/>
+	<HighResolutionIconUrl DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Images/Icon64.png"/>
 
 	<SupportUrl DefaultValue="https://helpdesk.wearelegence.com" />
 	<!-- Domains that will be allowed when navigating. For example, if you use ShowTaskpane and then have an href link, navigation will only be allowed if the domain is on this list. -->
@@ -40,7 +40,7 @@
 	<FormSettings>
 		<Form xsi:type="ItemRead">
 			<DesktopSettings>
-				<SourceLocation DefaultValue="~remoteAppUrl/MessageRead.html"/>
+				<SourceLocation DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/TaskPane/HTML/editsignature.html"/>
 				<RequestedHeight>250</RequestedHeight>
 			</DesktopSettings>
 		</Form>
