@@ -68,6 +68,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="autorunweb.html" />
     <Content Include="Content\Button.css" />
     <Content Include="Content\fabric-9.6.0.scoped.css" />
     <Content Include="Content\fabric-9.6.0.scoped.min.css" />
@@ -110,13 +111,15 @@
     <Content Include="Functions\FunctionFile.html" />
     <Content Include="Functions\FunctionFile.js" />
     <Content Include="Images\Close.png" />
-    <Content Include="Images\Icon16.png" />
     <Content Include="Images\Icon32.png" />
     <Content Include="Images\Icon64.png" />
     <Content Include="Images\Icon80.png" />
+    <Content Include="Images\Icon16.png" />
     <Content Include="MessageRead.css" />
     <Content Include="MessageRead.html" />
     <Content Include="MessageRead.js" />
+    <Content Include="Scripts\autorunshared.js" />
+    <Content Include="Scripts\autorunweb.js" />
     <Content Include="Scripts\jquery-3.6.0.js" />
     <Content Include="Scripts\jquery-3.6.0.min.js" />
     <Content Include="Scripts\jquery-3.6.0.slim.js" />
@@ -563,6 +566,15 @@
     <Content Include="Scripts\Office\metadata\endpoints.xml" />
     <Content Include="Scripts\Office\metadata\features.xml" />
     <Content Include="Scripts\Office\MicrosoftAjax.js" />
+    <Content Include="TaskPane\CSS\assignsignature.css" />
+    <Content Include="TaskPane\CSS\editsignature.css" />
+    <Content Include="TaskPane\HTML\assignsignature.html" />
+    <Content Include="TaskPane\HTML\editsignature.html" />
+    <Content Include="TaskPane\HTML\LegenceSig.html" />
+    <Content Include="TaskPane\SCRIPT\signature_loader.js" />
+    <Content Include="TaskPane\SCRIPT\signature_templates.js" />
+    <Content Include="TaskPane\SCRIPT\taskpane_main.js" />
+    <Content Include="TaskPane\SCRIPT\taskpane_render.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -583,6 +595,7 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
