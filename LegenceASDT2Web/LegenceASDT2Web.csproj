@@ -576,6 +576,7 @@
     <Content Include="TaskPane\SCRIPT\signature_templates.js" />
     <Content Include="TaskPane\SCRIPT\taskpane_main.js" />
     <Content Include="TaskPane\SCRIPT\taskpane_render.js" />
+    <Content Include="utilities.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

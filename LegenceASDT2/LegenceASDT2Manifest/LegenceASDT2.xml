@@ -136,6 +136,7 @@
 					<bt:Url id="residUrl0" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/TaskPane/HTML/editsignature.html"></bt:Url>
 					<bt:Url id="Autorun" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/TaskPane/HTML/autorunweb.html"></bt:Url>
 					<bt:Url id="runtimeJs" DefaultValue="https://cgaslegence.github.io/LegenceASDT2/LegenceASDT2Web/Scripts/autorunshared.js"></bt:Url>
+					
 				</bt:Urls>
 				<bt:ShortStrings>
 					<bt:String id="groupLabel" DefaultValue="Legence"/>
